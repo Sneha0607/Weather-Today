@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Weather-Today/static/css/main.834b57b5.chunk.css",
+    "main.css": "/Weather-Today/static/css/main.b723df80.chunk.css",
     "main.js": "/Weather-Today/static/js/main.717844d3.chunk.js",
     "main.js.map": "/Weather-Today/static/js/main.717844d3.chunk.js.map",
     "runtime-main.js": "/Weather-Today/static/js/runtime-main.5603b916.js",
@@ -10,14 +10,14 @@
     "static/js/3.937b5e46.chunk.js": "/Weather-Today/static/js/3.937b5e46.chunk.js",
     "static/js/3.937b5e46.chunk.js.map": "/Weather-Today/static/js/3.937b5e46.chunk.js.map",
     "index.html": "/Weather-Today/index.html",
-    "static/css/main.834b57b5.chunk.css.map": "/Weather-Today/static/css/main.834b57b5.chunk.css.map",
+    "static/css/main.b723df80.chunk.css.map": "/Weather-Today/static/css/main.b723df80.chunk.css.map",
     "static/js/2.830d6f53.chunk.js.LICENSE.txt": "/Weather-Today/static/js/2.830d6f53.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Weather-Today/static/media/warm-bg.a7f83012.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5603b916.js",
     "static/js/2.830d6f53.chunk.js",
-    "static/css/main.834b57b5.chunk.css",
+    "static/css/main.b723df80.chunk.css",
     "static/js/main.717844d3.chunk.js"
   ]
 }
